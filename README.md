@@ -1,2 +1,2 @@
-# ProyectoAzteca
-Repositorio para el proyecto Azteca.
+# PA
+Repositorio del proyecto Azteca.
