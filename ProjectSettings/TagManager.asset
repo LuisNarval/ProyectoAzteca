@@ -5,6 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - HoseEdge
+  - grainBag
+  - Peso
+  - Granos
+  - Bascula
+  - BoteSal
+  - BoteTimerosal
+  - BolsaUnKilo
   layers:
   - Default
   - TransparentFX
@@ -16,10 +23,10 @@ TagManager:
   - 
   - JointPoint
   - Hose
-  - 
-  - 
-  - 
-  - 
+  - Pala
+  - PalaMascara
+  - GrainDetector
+  - ParticuleIgnorer
   - 
   - 
   - 

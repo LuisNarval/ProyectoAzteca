@@ -77,7 +77,7 @@ namespace RopeMinikit
             public float massPerMeter;
 
             [Tooltip("A measure of the stiffness of the rope. Note that the actual stiffness is heavily dependent on the number of solver iterations and the size of the physics time step used, if you change one value you problably need to re-tweak the other(s). This particular value does not influence performance.")]
-            [Range(0.01f, 1.0f)]
+            [Range(0.01f, 2.0f)]
             public float stiffness;
 
             [Tooltip("A value that dynamically shortens or lengthens the rope by a multiplicative factor. This can be used to create a retractable grappling hook for example.")]

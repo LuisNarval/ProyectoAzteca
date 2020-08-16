@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: e980439f428a3754f8d79ed4e764536b
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acero Inoxidable
+    second: {fileID: 2100000, guid: 16c64ecf4fb380149b9854331f48315e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acrylic - Activar - Ascend - White Bkgd_Black Lettering (52)
+    second: {fileID: 2100000, guid: cd20f533412db744086e51d99b76fc95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminio Torreta
+    second: {fileID: 2100000, guid: cc977410a6777194da1ba68dbec7a60d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum, Anodized Red
+    second: {fileID: 2100000, guid: 2688c212a7fa3b948af72e96c621fe31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amarillo
+    second: {fileID: 2100000, guid: c571ffff2f9a7044fb9245e45c967ba0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ambar
+    second: {fileID: 2100000, guid: da92b523281801f4aaed8df2af529929, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Bot\xF3n Amarillo"
+    second: {fileID: 2100000, guid: 50e133fc31365cf45996a92726870171, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Bot\xF3n Rojo"
+    second: {fileID: 2100000, guid: 1ed473ca4e3375843a68dd1e5e0f85d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Bot\xF3n Verde"
+    second: {fileID: 2100000, guid: 295e3dc6e13ffa04b82f8abdff27e640, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Caja Aluminio
+    second: {fileID: 2100000, guid: 794d5c3ecbc772d4190ee37bbf1e7202, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Conduit
+    second: {fileID: 2100000, guid: 32914045850ae49478b178cb5c80d551, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Contacto Falla Equipo
+    second: {fileID: 2100000, guid: 064a2c46e0df9f04ea8d3a7b7d64146a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Contactos Especiales
+    second: {fileID: 2100000, guid: d545c80c190cfb14aaec91f3beaa8ae2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Contactos Normales
+    second: {fileID: 2100000, guid: 4215ec06fa7ec384faad35328ab43d7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Control de Acceso
+    second: {fileID: 2100000, guid: e6491bfc7be544647957f07270ca9de8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Finish - Gray
+    second: {fileID: 2100000, guid: a222467674fd7be48b8d0437f70bc6c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Generic
+    second: {fileID: 2100000, guid: 1a71cde7b9e90f14c8d13921e7bbb099, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: b6bad1708bc586e42bf6aa84b9a8fe71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Glass C\xE1mara"
+    second: {fileID: 2100000, guid: d09945c3ba5f76340b9f288528bfea15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Estrobo
+    second: {fileID: 2100000, guid: 73c27462ebc2f5d46a7157bbf204b958, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "HMI Pl\xE1stico Claro"
+    second: {fileID: 2100000, guid: 0daac91f10f72ab40bc76e0ec8a9a446, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "HMI Pl\xE1stico Gris"
+    second: {fileID: 2100000, guid: 091cebae8ae125b44ac06d0a7fe5f328, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Interf\xF3n"
+    second: {fileID: 2100000, guid: 13d220b27dc52f44fa64817d7949f301, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interlock
+    second: {fileID: 2100000, guid: ba27a5d76f2282c4586b074755116eeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Aluminium
+    second: {fileID: 2100000, guid: c1510607ac4ea134d920a1b151272454, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Nystrom - Stainless Steel
+    second: {fileID: 2100000, guid: 5e8a624d08e6a164c868d8ec014c3d4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: e39744b6796030d4e89d0dfa3de3ec44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pantalla
+    second: {fileID: 2100000, guid: ada975d13a067914288595113ad2c935, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pella-Clear Insulating Glass
+    second: {fileID: 2100000, guid: c8f6120cf8e8b33469ee8e31d533dc2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pella-Exterior Clad-White
+    second: {fileID: 2100000, guid: 636aff5b48822a649bb97da77e7666b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pella-Interior-No Primer
+    second: {fileID: 2100000, guid: 9b4050afa7023c246956fe72a3605109, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Placa de Aluminio
+    second: {fileID: 2100000, guid: 9500a080478a6b24386cdb4aec0162f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic - Nystrom - Black
+    second: {fileID: 2100000, guid: b8cb0a9efa57cca47a3d75cef6da21f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Pl\xE1stico Gris"
+    second: {fileID: 2100000, guid: a0a1d51a3ded194478c552652c75c0f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Polyester - Nystrom - Glossy Red Coated
+    second: {fileID: 2100000, guid: d449a74c070d5994da80f934e0ad77ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puerta Acero Inoxidable Hoja
+    second: {fileID: 2100000, guid: 95d684811beac6840813500b4536fd5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puerta Acero Inoxidable Manija
+    second: {fileID: 2100000, guid: d8e8b64e87ffa7643848d84bb1108f7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puerta Acero Inoxidable Marco
+    second: {fileID: 2100000, guid: dc9cc805a8704ee458e5b7e3465b9159, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puerta Acero Inoxidable Marco Mirilla
+    second: {fileID: 2100000, guid: d1e21ab3714e3d34984790c858169f29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puerta Aluminio Manija
+    second: {fileID: 2100000, guid: b7363baae80021647a43f0d604666bdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Plastic
+    second: {fileID: 2100000, guid: 4e956f52e0f29cc4cbfb59f5cf844b83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Render Material 0-0-255
+    second: {fileID: 2100000, guid: 963c344a495365944ad13c346be6fdf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Render Material 0-191-255
+    second: {fileID: 2100000, guid: 843fc01060632544a94bfa996b84bfc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Render Material 0-82-165
+    second: {fileID: 2100000, guid: df053486c6ec3ee44924e787ca97e978, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Render Material 101-101-101
+    second: {fileID: 2100000, guid: e54bbe5cf7031a84a87d0592995cbf6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Render Material 255-255-255
+    second: {fileID: 2100000, guid: 048e38de97a684e4fa33da26055d575e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rojo
+    second: {fileID: 2100000, guid: e1c2f20c9cef78f4892364d8b7e5bedf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Servicio de Producto
+    second: {fileID: 2100000, guid: b80f6c299cdc87f4e971467561b02bbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel - Activar - White Primer (1)
+    second: {fileID: 2100000, guid: 5f90749ae73e0bc44978170142a7d527, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Torreta Pl\xE1stico Bocina"
+    second: {fileID: 2100000, guid: a6f83d048f117ab4cad5cc3cc0b4fb3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Verde
+    second: {fileID: 2100000, guid: cc9dffa8ba2132e468d68667dd5f2c2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Plastic
+    second: {fileID: 2100000, guid: c92e4dbb04e01c243835dbe74c4a109c, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

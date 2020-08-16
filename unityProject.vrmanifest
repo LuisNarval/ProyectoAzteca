@@ -2,7 +2,7 @@
   "source": "Unity",
   "applications": [
     {
-      "app_key": "application.generated.unity.proyectoazteca.exe",
+      "app_key": "application.generated.unity.aztecatraining.exe",
       "launch_type": "url",
       "url": "steam://launch/",
       "action_manifest_path": "C:\\Users\\Jehuty\\Documents\\Programacion\\Freelance\\ProyectoAzteca\\Assets\\StreamingAssets\\SteamVR\\actions.json",
