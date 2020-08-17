@@ -12,6 +12,7 @@ TagManager:
   - BoteSal
   - BoteTimerosal
   - BolsaUnKilo
+  - BolsaAgua
   layers:
   - Default
   - TransparentFX
@@ -27,7 +28,7 @@ TagManager:
   - PalaMascara
   - GrainDetector
   - ParticuleIgnorer
-  - 
+  - BolsaAgua
   - 
   - 
   - 
